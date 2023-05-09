@@ -1,5 +1,5 @@
 ---
- name: Melanee Sanabria
+name: Melanee Sanabria
 semester: Spring 23
 course: cis106
 ---
